@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moksitha+Jayanga....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Moksitha+Jayanga....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Moksitha Jayanga </h1>
+
 <h3 align="center">💻 Computer Engineering Undergraduate | University of Peradeniya 🎓</h3>
 
 <div align="center">

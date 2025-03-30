@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=moksithaj&label=Profile%20views&color=0e75b6&style=flat" alt="moksithaj" /> </p>
+<div align="center">
 <h6 align="center" color="green"> MOKSITHAJAYANGA </h6>
+<div align="center">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is;Moksitha+Jayanga....;Nice+to+meet+you!&center=true&size=31">

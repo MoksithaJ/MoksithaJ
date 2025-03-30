@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Moksitha Jayanga</h1>
-<h3 align="center">A computer Engineering Student.</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Moksitha Jayanga </h1>
+<h3 align="center">💻 Computer Engineering Undergraduate | University of Peradeniya 🎓</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/moksitha-jayanga-91289b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/profile.php?id=100090406700063">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook logo" />
+  </a>
+  <img width="12" />
+  
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksithaj&label=Profile%20views&color=0e75b6&style=flat" alt="moksithaj" /> </p>
 

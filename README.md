@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
 
 <h1 align="center">
 <a>
@@ -12,9 +17,7 @@
 
 
 <h3 align="center">💻 Computer Engineering Undergraduate | University of Peradeniya 🎓</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/moksitha-jayanga-91289b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />

@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moksithaj&show_icons=true&locale=en&layout=compact" alt="moksithaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moksithaj&show_icons=true&locale=en" alt="moksithaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moksithaj&show_icons=true&theme=gruvbox" alt="moksithaj" /></p>

@@ -29,7 +29,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=moksithaj&label=Profile%20views&color=0e75b6&style=flat" alt="moksithaj" /> </p>
 
-- 🌱 I’m currently learning **Computer Engineering.**
+- 🎓 I’m currently **following my computer engineering degree.**
 
 - 📫 How to reach me **moksithajayanga@gmail.com / e22159@eng.pdn.ac.lk**
 

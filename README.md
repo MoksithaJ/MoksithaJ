@@ -33,33 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=moksithaj&theme=dark&show_icons=true&count_private=true" />
- 
-</td>
-<td align="center" width="50%">
-  
-  <img src="https://streak-stats.demolab.com?user=moksithaj&theme=dark&hide_border=false" />
-  
-</td>
-</tr>
-</table>
-
----
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moksithaj&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -86,11 +59,6 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
-
-<img src="https://raw.githubusercontent.com/moksithaj/moksithaj/output/github-snake.svg" alt="GitHub Snake" />
-
----
 
 ### 🌀 Footer
 

@@ -21,11 +21,15 @@
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=moksithaj&label=Profile%20views&color=0e75b6&style=flat" alt="moksithaj" />
+  <img src="https://komarev.com/ghpvc/?username=moksithaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🎓 I’m currently **following my Computer Engineering degree.**
-- 📫 How to reach me: **moksithajayanga@gmail.com / e22159@eng.pdn.ac.lk**
+---
+
+### 🎓 About Me
+
+- 📚 I’m currently pursuing **Computer Engineering at the University of Peradeniya**  
+- 📫 Contact: **moksithajayanga@gmail.com / e22159@eng.pdn.ac.lk**
 
 ---
 
@@ -35,7 +39,7 @@
 <tr>
 <td align="center" width="50%">
   
-  <img src="https://github-readme-stats-mu-steel.vercel.app/api?username=moksithaj&theme=dark&show_icons=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moksithaj&theme=dark&show_icons=true&count_private=true" />
  
 </td>
 <td align="center" width="50%">
@@ -56,7 +60,7 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moksitha-jayanga-91289b310" target="blank">
@@ -69,7 +73,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -84,9 +88,12 @@
 
 ### 🐍 GitHub Snake Animation
 
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moksithaj/moksithaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moksithaj/moksithaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/moksithaj/moksithaj/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/moksithaj/moksithaj/output/github-snake.svg" alt="GitHub Snake" />
+
+---
+
+### 🌀 Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

@@ -12,11 +12,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moksitha-jayanga-91289b310">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="5" alt="LinkedIn logo" />
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/profile.php?id=100090406700063">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="Facebook logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="5" alt="Facebook logo" />
   </a>
 </div>
 

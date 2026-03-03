@@ -10,7 +10,7 @@
 
 <h3 align="center">💻 Computer Engineering Undergraduate | University of Peradeniya 🎓</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
+
 </div>
 </div>
 </div>
